@@ -1,0 +1,15 @@
+git init - initialise
+git status - shows status
+git add - adds to staging area
+git commit - commits files to the local repository
+git log - shows commited changes
+git diff - shows difference btween the previous and the new files
+git checkout - rolls back to the previous checkpoint
+
+-a,-m etc - called flags
+
+
+
+
+
+working directory => staging area => local rep => remote rep
