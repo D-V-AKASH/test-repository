@@ -11,5 +11,7 @@ git checkout - rolls back to the previous checkpoint
 
 
 
-
+intial                   add           commit          push
 working directory => staging area => local rep => remote rep
+
+
